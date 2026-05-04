@@ -32,4 +32,5 @@ It showcases my projects, skills, and contact information in a fully responsive 
 
 ## 📬 Contact
 LinkedIn: https://www.linkedin.com/in/shubham-gupta-661124375/
+
 Email: shubhamsanojgupta@gmail.com
